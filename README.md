@@ -1,25 +1,24 @@
 
 # Ciclo dia e noite com alteração de Skybox
 
-![ezgif-2-70e226272b](https://user-images.githubusercontent.com/68354176/159055927-a1d10fab-5ff4-4abb-affa-46181968c86a.gif)
+![ezgif-1-16fc5625c3](https://user-images.githubusercontent.com/68354176/161181646-05c50977-45f6-4391-b047-724cf9e41fa9.gif)
 
 ## Meus cursos na Udemy - Cupons de desconto no link abaixo:
 * https://wlo.link/@recriandogames
  
 ### 😀 Vídeo Tutorial:
-* https://www.youtube.com/watch?v=IXQt5LNfz-A
+* https://www.youtube.com/recriandogames
 
 ### ☕ Faça parte das nossas redes sociais e comunidade no Discord: 
 * https://linktr.ee/recriandogames
 
 ## 🚀 Links de referência utilizados para este tutorial:
 
-* EASY Rain Particle in Unity (Particle System Tutorial): https://www.youtube.com/watch?v=SrWrUN56UWU
-* Rain VFX Unity Particle System || How to make a Rain Effect in unity Particle System VFX: https://www.youtube.com/watch?v=X5QEh9DmD7o&t=10s
+* Repositório Barbelot - Unity-Skybox-Blender: https://github.com/Barbelot/Unity-Skybox-Blender
+* Creating a Day/Night Cycle (Unity Tutorial): https://www.youtube.com/watch?v=L4t2c1_Szdk&t=45s
+* Unity DAY AND NIGHT In 6 Minutes!: https://www.youtube.com/watch?v=m9hj9PdO328
 * Documentação Unity: https://docs.unity3d.com/Manual/index.html
-* Particle System: https://docs.unity3d.com/ScriptReference/ParticleSystem.html
-* Particle systems: https://docs.unity3d.com/Manual/ParticleSystems.html
-* Introduction to Particle Systems: https://learn.unity.com/tutorial/introduction-to-particle-systems
 
 ## 🚀 Assets e pacotes utilizados:
-* Nenhum Asset foi utilizado neste projeto
+* Flashlight: https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
+* Fantasy Skybox: https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
