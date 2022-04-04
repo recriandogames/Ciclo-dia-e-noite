@@ -15,6 +15,17 @@
 ## 🚀 Links de referência utilizados para este tutorial:
 
 * Repositório Barbelot - Unity-Skybox-Blender: https://github.com/Barbelot/Unity-Skybox-Blender
+* C# Timenspan: https://docs.microsoft.com/pt-br/dotnet/api/system.timespan?view=net-6.0
+* C# DateTime: https://docs.microsoft.com/pt-br/dotnet/api/system.datetime?view=net-6.0 
+* Mathf.Lerp: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/Mathf.Lerp.html
+* Light: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/Light.html
+* Color: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/Color.html
+* AnimationCurve: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/AnimationCurve.html
+* Vector3.Dot: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/Vector3.Dot.html
+* RenderSettings.ambientLight: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/RenderSettings-ambientLight.html
+* ExecuteInEditMode: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/ExecuteInEditMode.html
+* HeaderAttribute: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/HeaderAttribute.html
+* Material: https://docs.unity3d.com/2022.2/Documentation/ScriptReference/Material.html
 * Creating a Day/Night Cycle (Unity Tutorial): https://www.youtube.com/watch?v=L4t2c1_Szdk&t=45s
 * Unity DAY AND NIGHT In 6 Minutes!: https://www.youtube.com/watch?v=m9hj9PdO328
 * Documentação Unity: https://docs.unity3d.com/Manual/index.html
